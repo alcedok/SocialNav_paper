@@ -45,9 +45,13 @@ This repository contains the code for the models and experiments used in the pap
 If you find this work useful, please reference it using:
 
 ```bibtex
-@misc{alcedo2025_PSWM,
-  author = {Alcedo, Kevin and Lima, Pedro U. and Alami, Rachid},
-  title = {Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation},
-  year = {2025}
-  }
+@misc{alcedo2025perspectiveshiftedneurosymbolicworldmodels,
+      title={Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation}, 
+      author={Kevin Alcedo and Pedro U. Lima and Rachid Alami},
+      year={2025},
+      eprint={2503.20425},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2503.20425}, 
+}
 ```
